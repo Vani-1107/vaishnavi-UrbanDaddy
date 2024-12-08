@@ -116,7 +116,7 @@ const Footer = () => {
 
       {/* Footer Bottom */}
       <div className="text-center mt-8 border-t border-gray-700 pt-4">
-        <p>© 2024 Vaishnavi Solution All Rights Reserved</p>
+        <p>© 2024 All Rights Reserved</p>
       </div>
     </footer>
   );
